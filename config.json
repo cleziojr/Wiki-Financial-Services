@@ -13,9 +13,9 @@
     "title": "Wikipedia - Financial Services"
   },
   "legend": {
-    "edgeLabel": "Network with terms of Wikipedia",
+    "edgeLabel": "Link of Pages",
     "colorLabel": "Modularity",
-    "nodeLabel": "Network with terms of Wikipedia"
+    "nodeLabel": "Page of Wikipedia"
   },
   "features": {
     "search": true,
